@@ -1,6 +1,8 @@
+#importing the libraries
 import numpy as np
 from keras.preprocessing import image
 
+#prediction
 from tkinter import *
 from PIL import ImageTk, Image
 from tkinter import filedialog
